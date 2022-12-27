@@ -51,5 +51,11 @@
   },
   "msw": {
     "workerDirectory": "public"
+  },
+  "overrides": {
+    "lmdb": "2.5.3"
+  },
+  "resolutions": {
+    "lmdb": "2.5.3"
   }
 }
